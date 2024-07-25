@@ -9,7 +9,10 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 - :star2: My Current Focus: Building robust, scalable, and user-friendly web solutions using the MERN stack.
 - :dart: My Goals: To actively contribute to the web development community, drive forward-thinking projects, and explore new horizons in web technology, pushing the boundaries of what's achievable in the digital realm.
 <br></br>
-**“Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it?”**
+
+<p align="center">
+  <strong>“You are making progress if each mistake is a new one!”</strong>
+</p>
 
  <br></br>
 
