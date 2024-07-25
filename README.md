@@ -13,8 +13,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">
   <strong>“You are making progress if each mistake is a new one!”</strong>
 </p>
-
- <br></br>
+<br></br>
 
 ## <p align="center">:bulb:Languages and Tools</p>
 
