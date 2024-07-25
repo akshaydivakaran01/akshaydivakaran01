@@ -5,25 +5,17 @@
 </div>
 
 ### <p align="center">Full Stack Developer || MERN </p>
-I'm a dedicated MERN Stack developer with a passion for crafting innovative, dynamic, responsive and high-performing web applications :rocket:
+I'm a dedicated MERN Stack developer with a passion for crafting dynamic, responsive and high-performing web applications :rocket:
 - :star2: My Current Focus: Building robust, scalable, and user-friendly web solutions using the MERN stack.
 - :dart: My Goals: To actively contribute to the web development community, drive forward-thinking projects, and explore new horizons in web technology, pushing the boundaries of what's achievable in the digital realm.
 <br></br>
 **“Web development is difficult, only then it is fun to do. You just have to set your standards. If it were to be easy, would anyone do it?”**
-  <p align="right">- Olawale Daniel</p>
 
-  <br></br>
+ <br></br>
 
-## <p align="center">:iphone: Connect with me</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akshaydivakaran" target="_blank"><img src="https://i.sstatic.net/gVE0j.png"></a>
-  <a href="https://www.linkedin.com/in/akshaydivakaran" target="_blank">LinkedIn</a>
-</p>
+## <p align="center">:bulb:Languages and Tools</p>
 
-
-## Languages and Tools
-
-<table>
+<table align="center">
   <tr>
      <td align="center" width="96">
       <a href="https://www.mongodb.com/"><img src="https://camo.githubusercontent.com/d2c5c50d80038cefbf7ea0fae2b663f4e3b1f96ed0188925ff2f663ab300abdf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6d6f6e676f64622e706e67" alt="MongoDB" width="48" height="48" /></a>
@@ -97,6 +89,30 @@ I'm a dedicated MERN Stack developer with a passion for crafting innovative, dyn
     </td>
   </tr>
 </table>
+
+<br></br>
+
+## <p align="center">:iphone: Connect with me</p>
+
+<p align="center">Feel free to explore my repositories, check out my projects, and don’t hesitate to reach out if you have any questions or collaboration opportunities!</p>
+
+<p align="center">
+    <a href="mailto:akshaydivakaran01@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D44249?style=flat-square&logo=email&logoColor=white" alt="Email"/>
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/akshaydivakaran">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/_aksh.4y_?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+</p>
+
+<p align="center">Looking forward to connecting with fellow professionals in the tech world!</p>
+
+<p align="center">Happy coding! :rocket:</p>
 
 
 
