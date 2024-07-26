@@ -13,7 +13,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">
   <strong>“You are making progress if each mistake is a new one!”</strong>
 </p>
-<br></br>
+<hr></hr>
 
 ## <p align="center">:bulb:Languages and Tools</p>
 
@@ -92,7 +92,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
   </tr>
 </table>
 
-<br></br>
+<hr></hr>
 
 ## <p align="center">:iphone: Connect with me</p>
 
