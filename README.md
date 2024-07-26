@@ -106,10 +106,6 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
     <a href="https://www.linkedin.com/in/akshaydivakaran">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/_aksh.4y_?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
 </p>
 
 <p align="center">Looking forward to connecting with fellow professionals in the tech realm!</p>
