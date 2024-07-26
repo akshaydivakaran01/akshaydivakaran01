@@ -112,7 +112,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
     </a>
 </p>
 
-<p align="center">Looking forward to connecting with fellow professionals in the tech world!</p>
+<p align="center">Looking forward to connecting with fellow professionals in the tech realm!</p>
 
 <p align="center">Happy coding! :rocket:</p>
 
