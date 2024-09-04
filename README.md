@@ -1,4 +1,9 @@
 <div align="center">
+    <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDQzNzEsIm5iZiI6MTcyNTQ0NDA3MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDEwMDExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZGY3ZjI3YTEzYzI1NDRmYjRhZmUwMzhiMDllNTUwNjAzNDdlMThjMDM4ZGYxODA2MzkzYWJlYzY5M2FlNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8P9T-DTX4ur9pgkQIbSND5XrAe6jxD3AZ7ZrzgC8PgM" alt="Header" />
+</div>
+<br>
+<br>
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshay+Divakaran" alt="Typing SVG" />
   </a>
@@ -13,7 +18,12 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">
   <strong>“You are making progress if each mistake is a new one!”</strong>
 </p>
-<hr></hr>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Header" width="50" height="50"/>
+</div>
+<hr>
+
 
 ## <p align="center">:bulb:Languages and Tools</p>
 
@@ -56,7 +66,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/"><img src="https://camo.githubusercontent.com/d1f34a845e52e79041c1995394dbad253b4177c1549264ae671bc1b58f04f5d9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62322f426f6f7473747261705f6c6f676f2e7376672f3235363070782d426f6f7473747261705f6c6f676f2e7376672e706e67" alt="Bootstrap" width="48" height="48" /></a>
+      <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" width="48" height="48" /></a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
@@ -91,26 +101,40 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
     </td>
   </tr>
 </table>
-
-<hr></hr>
+<br>
+<hr>
 
 ## <p align="center">:iphone: Connect with me</p>
 
 <p align="center">Feel free to explore my repositories, check out my projects, and don’t hesitate to reach out if you have any questions or collaboration opportunities!</p>
 
 <p align="center">
-    <a href="mailto:akshaydivakaran01@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Email" width="48" height="48"/>
+    <a href="mailto:akshaydivakaran01@gmail.com" style="text-decoration: none;">
+        <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Email" width="48" height="48">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/akshaydivakaran">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="48" height="48"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="48" height="48">
+    </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/__aksh.4y__/?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="48" height="48">
     </a>
 </p>
 
 <p align="center">Looking forward to connecting with fellow professionals in the tech realm!</p>
 
-<p align="center">Happy coding! :rocket:</p>
+<p align="center">Happy coding! :rocket: </p>
+<br><br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Happy Coding"/></p>
+</div>
+
+<br><br>
+<div align="center">
+  <img src="https://camo.githubusercontent.com/626238757866864b3d04ed0c9c43cfc9f8c5983b3c1f085362967381d24761e4/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" alt="Happy Coding"/></p>
+</div>
+
 
 
 
