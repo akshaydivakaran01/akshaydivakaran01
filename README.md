@@ -20,7 +20,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <a href="https://www.mongodb.com/"><img src="https://camo.githubusercontent.com/d2c5c50d80038cefbf7ea0fae2b663f4e3b1f96ed0188925ff2f663ab300abdf/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6d6f6e676f64622e706e67" alt="MongoDB" width="48" height="48" /></a>
+      <a href="https://www.mongodb.com/"><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDEwODgsIm5iZiI6MTcyNTQ0MDc4OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA5MDYyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhNDIzNTJkZDI4NDQxZjMyZDdkNmUyMWQ3ZTU4NTUxMDFhMGRmMTcxNGExYTc1MDBhN2NiNzE4Zjc0ZjY4YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0VJ_ndwYw3Y-ZhfNeGfMTrJR3y0dOiwTa7hDDzpEAwk" alt="MongoDB" width="48" height="48" /></a>
       <br>MongoDB
     </td>
      <td align="center" width="96">
@@ -28,7 +28,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Express
     </td>
     <td align="center" width="96">
-      <a href="https://react.dev/"><img src="https://camo.githubusercontent.com/48a026f4399514afed27e76efb9f48e139a0ba4b613d933a8c7a094dc1da475c/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f72656163742d69636f6e2e737667" alt="React" width="48" height="48" /></a>
+      <a href="https://react.dev/"><img src="https://i.makeagif.com/media/11-21-2022/imisbt.gif" alt="React" width="48" height="48" /></a>
       <br>React JS
     </td>
     <td align="center" width="96">
@@ -38,20 +38,20 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://html.com/html5/"><img src="https://camo.githubusercontent.com/4c31cabd8b3aa138d55adcf0a5415e5f71f38f4f5eb0ef7312ef675077834b8d/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c" alt="HTML5" width="48" height="48" /></a>
+      <a href="https://html.com/html5/"><img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDEzMTksIm5iZiI6MTcyNTQ0MTAxOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjYtMjlmZDYyODYtNGU3Yi00ZDZjLTgxOGYtYzQ3NjVkNWUzOWE5LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA5MTAxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNkN2UwNGJiN2Y4ZTNjMzQ3ODQ5YzQ4ZTYyN2E2MDE1MTgzZWI4ODlmZGY0M2NmMDAwNGI4ZjJiZWM2ZDIwYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.z3Xn5GrtwXLXbESjC72QCsQ5K3UtlLS8UsfPN0s3BeQ" alt="HTML5" width="48" height="48" /></a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/"><img src="https://camo.githubusercontent.com/e531a79257b93921f8b58efa952eb049ceb2672bcf57bd666165476261c145a8/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637373" alt="CSS" width="48" height="48" /></a>
+      <a href="https://www.w3schools.com/css/"><img src="https://private-user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDEzMTksIm5iZiI6MTcyNTQ0MTAxOSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MjgtNjdmNDc3ZWQtNjYyNC00MmRhLTk5ZjAtMWE3YjFhMTZlZWNiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA5MTAxOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkwZTdjNzQ1NDYxMjEyNDJjYjQ2ZWY5N2NhOWE4NWZlNGViZmRjYTIzOWVkOWMzZDI4ZjQ0MGJiM2RkMmJhZDMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.hX5NeyQwxqC60BvM3aubCrsi-K1vsafFjLuEqpWeoDk" alt="CSS" width="48" height="48" /></a>
       <br>CSS3
     </td>
     <td align="center" width="96">
-      <a href="https://www.javascript.com/"><img src="https://camo.githubusercontent.com/0418a2bf25601cc5d8fae74f654b10d5734360ff2b1bb3b2fea4bb086baf5586/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a732d69636f6e2e737667" alt="JavaScript" width="48" height="48" /></a>
+      <a href="https://www.javascript.com/"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" width="48" height="48" /></a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="https://ejs.co/"><img src="https://camo.githubusercontent.com/fde6ae2ec645b9d1e6be4eb0ed1821ce5d67a79addca3a83d930b090160e7624/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6a6176617363726970742e706e67" alt="EJS" width="48" height="48" /></a>
-      <br>EJS
+      <a href="https://firebase.google.com/"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png?size=48" alt="EJS" width="48" height="48" /></a>
+      <br>Firebase
     </td>
   </tr>
   <tr>
@@ -64,11 +64,11 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Tailwind
     </td>
     <td align="center" width="96">
-      <a href="https://www.java.com/en/"><img src="https://camo.githubusercontent.com/5acf8ffd03e3ef89b19fc9f2df1ee3fa14aebe244a223b5a23868a997e888f6c/68747470733a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f4a6176615f6c6f676f5f69636f6e2e706e67" alt="Java" width="48" height="48" /></a>
+      <a href="https://www.java.com/en/"><img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png?size=48" alt="Java" width="48" height="48" /></a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://camo.githubusercontent.com/b7243c35e03201bd488eae6d3afb1aa486b65b0a851d171dc0de5b9d4dfa8f14/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f632d70726f6772616d6d696e672d3536393536342e706e67" alt="C" width="48" height="48" /></a>
+      <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=48" alt="C" width="48" height="48" /></a>
       <br>C
     </td>
   </tr>
@@ -78,7 +78,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/"><img src="https://camo.githubusercontent.com/19cf1f6246a55a20a2fc585c1517827a55ab59b18a5306974f54a5b6f4e35fc9/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6769746875622d69636f6e2e737667" alt="GitHub" width="48" height="48" /></a>
+      <a href="https://github.com/"><img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9523mrwjokypypj9hx47p27ntyaj15vpim7lxenigo6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="48" /></a>
       <br>GitHub
     </td>
      <td align="center" width="96">
@@ -86,7 +86,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="https://code.visualstudio.com/"><img src="https://camo.githubusercontent.com/a84b921a468b7756774d8cdbefeaf74db66bd4452392162b76b9845cd7f58301/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7673636f6465" alt="VSCode" width="48" height="48" /></a>
+      <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VSCode" width="48" height="48" /></a>
       <br>VSCode
     </td>
   </tr>
@@ -100,11 +100,11 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">
     <a href="mailto:akshaydivakaran01@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D44249?style=flat-square&logo=email&logoColor=white" alt="Email"/>
+        <img src="" alt="Email" width="48" height="48"/>
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/akshaydivakaran">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="48" height="48"/>
     </a>
 </p>
 
