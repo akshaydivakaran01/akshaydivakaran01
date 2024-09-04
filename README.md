@@ -1,10 +1,12 @@
+
+
 <div align="center">
-    <img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDQzNzEsIm5iZiI6MTcyNTQ0NDA3MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDEwMDExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZGY3ZjI3YTEzYzI1NDRmYjRhZmUwMzhiMDllNTUwNjAzNDdlMThjMDM4ZGYxODA2MzkzYWJlYzY5M2FlNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8P9T-DTX4ur9pgkQIbSND5XrAe6jxD3AZ7ZrzgC8PgM" alt="Header" />
+    <a href="#"><img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDQzNzEsIm5iZiI6MTcyNTQ0NDA3MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDEwMDExMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU4ZGY3ZjI3YTEzYzI1NDRmYjRhZmUwMzhiMDllNTUwNjAzNDdlMThjMDM4ZGYxODA2MzkzYWJlYzY5M2FlNjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.8P9T-DTX4ur9pgkQIbSND5XrAe6jxD3AZ7ZrzgC8PgM" alt="Header" /></a>
 </div>
 <br>
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADC5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshay+Divakaran" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=009DC5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshay+Divakaran" alt="Typing SVG" />
 </div>
 
 ### <p align="center">Full Stack Developer || MERN </p>
@@ -18,7 +20,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 </p>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Header" width="50" height="50"/>
+    <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Header" width="50" height="50"/></a>
 </div>
 <hr>
 
@@ -107,7 +109,8 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">Feel free to explore my repositories, check out my projects, and don’t hesitate to reach out if you have any questions or collaboration opportunities!</p>
 
 <p align="center">
-    <a href="mailto:akshaydivakaran01@gmail.com" style="text-decoration: none;">
+    &nbsp
+    <a href="mailto:akshaydivakaran01@gmail.com">
         <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Email" width="48" height="48">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -127,10 +130,13 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Happy Coding"/></p>
 </div>
-
-<br><br>
+<br>
 <div align="center">
   <img src="https://camo.githubusercontent.com/626238757866864b3d04ed0c9c43cfc9f8c5983b3c1f085362967381d24761e4/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" alt="Happy Coding"/></p>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line-seperation" width="100%"/>
 </div>
 
 
