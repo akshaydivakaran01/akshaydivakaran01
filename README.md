@@ -100,7 +100,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">
     <a href="mailto:akshaydivakaran01@gmail.com">
-        <img src="" alt="Email" width="48" height="48"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Email" width="48" height="48"/>
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/akshaydivakaran">
