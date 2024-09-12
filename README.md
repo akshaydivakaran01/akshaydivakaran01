@@ -27,7 +27,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 ## <p align="center">:bulb:Languages and Tools</p>
 
-<table align="center" width="100%">
+<table align="center" width="80%">
   <tr>
      <td align="center" width="96">
       <a href="https://www.mongodb.com/"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="48" height="48" /></a>
