@@ -30,7 +30,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <a href="https://www.mongodb.com/"><img src="https://private-user-images.githubusercontent.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU0NDEwODgsIm5iZiI6MTcyNTQ0MDc4OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA2MjAtMzk4YjE5YjEtOWFhZS00YzFmLThiYzAtZDE3MmEyYzA4ZDY4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTA0VDA5MDYyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFhNDIzNTJkZDI4NDQxZjMyZDdkNmUyMWQ3ZTU4NTUxMDFhMGRmMTcxNGExYTc1MDBhN2NiNzE4Zjc0ZjY4YjcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.0VJ_ndwYw3Y-ZhfNeGfMTrJR3y0dOiwTa7hDDzpEAwk" alt="MongoDB" width="48" height="48" /></a>
+      <a href="https://www.mongodb.com/"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="48" height="48" /></a>
       <br>MongoDB
     </td>
      <td align="center" width="96">
