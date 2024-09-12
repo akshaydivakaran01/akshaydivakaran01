@@ -34,7 +34,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>MongoDB
     </td>
      <td align="center" width="96">
-      <a href="https://expressjs.com/"><img src="https://camo.githubusercontent.com/4f38bde15cc741aaec976cfa6e7006f82777f427419c58405ccdfc921310ab52/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d65787072657373" alt="Express" width="48" height="48" /></a>
+      <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" alt="Express" width="48" height="48" /></a>
       <br>Express
     </td>
     <td align="center" width="96">
@@ -42,7 +42,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>React JS
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org/en"><img src="https://camo.githubusercontent.com/7d2502981f54a67b821893f32f9ae04884c4ae47bafe9dd26ae43563398cd599/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" alt="Node.js" width="48" height="48" /></a>
+      <a href="https://nodejs.org/en"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="48" height="48" /></a>
       <br>Node.js
     </td>
   </tr>
