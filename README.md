@@ -1,7 +1,7 @@
 
-
+<div style="background-color: black;">
 <div align="center">
-    <a href="#"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="Header"/></a>
+    <a href="#"><img src="https://github.com/user-attachments/assets/07d34a89-8077-46fb-8d2d-c510b005b91f" alt="Header"/></a>
 </div>
 <br>
 <br>
@@ -20,7 +20,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 </p>
 
 <div align="center">
-    <a href="#"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="Header" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/user-attachments/assets/08c5fdb8-a983-4b24-9d7f-b6a379863681" alt="Header" width="50" height="50"/></a>
 </div>
 <hr>
 
@@ -111,15 +111,15 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">
     &nbsp
     <a href="mailto:akshaydivakaran01@gmail.com">
-        <img src="https://github.com/user-attachments/assets/e83c5fa2-580b-4d20-815a-fe7856ca9b73" alt="Email" width="100">
+        <img src="https://github.com/user-attachments/assets/e83c5fa2-580b-4d20-815a-fe7856ca9b73" alt="Email" width="70">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/akshaydivakaran">
-        <img src="https://github.com/user-attachments/assets/b727609c-9347-4ab4-8deb-c38ee6f1dc4a" alt="LinkedIn" width="100">
+        <img src="https://github.com/user-attachments/assets/b727609c-9347-4ab4-8deb-c38ee6f1dc4a" alt="LinkedIn" width="70">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/__aksh.4y__/?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
-        <img src="https://github.com/user-attachments/assets/728871c8-6f5f-4f7d-bb37-9368f0e512d8" alt="Instagram" width="100">
+        <img src="https://github.com/user-attachments/assets/728871c8-6f5f-4f7d-bb37-9368f0e512d8" alt="Instagram" width="70">
     </a>
 </p>
 
@@ -138,6 +138,6 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line-seperation" width="100%"/>
 </div>
 
-
+</div>
 
 
