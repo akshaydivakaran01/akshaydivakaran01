@@ -78,25 +78,25 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/c/c_intro.php"><img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png?size=48" alt="C++" width="48" height="48" /></a>
+      <a href="https://www.w3schools.com/cpp/cpp_intro.asp"><img src="https://github.com/user-attachments/assets/b372e3a8-89f9-4b1e-a9b1-f6ee4cd64355" alt="C++" width="48" height="48" /></a>
       <br>C++
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-     <a href="https://git-scm.com/"><img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width="48" height="48" /></a>
+     <a href="https://git-scm.com/"><img src="https://github.com/user-attachments/assets/4ecb40a0-f014-4d18-8b8c-da8197cb92ab" alt="Git" width="48" height="48" /></a>
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/"><img src="https://media2.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif?cid=6c09b9523mrwjokypypj9hx47p27ntyaj15vpim7lxenigo6&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" height="48" /></a>
+      <a href="https://github.com/"><img src="https://github.com/user-attachments/assets/41c4bb17-ded2-419b-910e-d2b87e0cb3d4" height="48" /></a>
       <br>GitHub
     </td>
      <td align="center" width="96">
-      <a href="https://www.postman.com/"><img src="https://camo.githubusercontent.com/cac9cb122b22e852f5624d103e8656925976bf1a807a6bf4cd6751420731836f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d706f73746d616e" alt="Postman" width="48" height="48" /></a>
+      <a href="https://www.postman.com/"><img src="https://github.com/user-attachments/assets/700ae841-1e79-4c41-8079-61f3270ea93d" alt="Postman" width="48" height="48" /></a>
       <br>Postman
     </td>
     <td align="center" width="96">
-      <a href="https://code.visualstudio.com/"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" alt="VSCode" width="48" height="48" /></a>
+      <a href="https://code.visualstudio.com/"><img src="https://github.com/user-attachments/assets/9d208058-a69f-48cf-87a8-ba3cc36df815" alt="VSCode" width="48" height="48" /></a>
       <br>VSCode
     </td>
   </tr>
@@ -111,15 +111,15 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <p align="center">
     &nbsp
     <a href="mailto:akshaydivakaran01@gmail.com">
-        <img src="https://cdn-icons-png.flaticon.com/128/16509/16509529.png" alt="Email" width="48" height="48">
+        <img src="https://github.com/user-attachments/assets/e83c5fa2-580b-4d20-815a-fe7856ca9b73" alt="Email" width="100">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/akshaydivakaran">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" width="48" height="48">
+        <img src="https://github.com/user-attachments/assets/b727609c-9347-4ab4-8deb-c38ee6f1dc4a" alt="LinkedIn" width="100">
     </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.instagram.com/__aksh.4y__/?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
-        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" width="48" height="48">
+        <img src="https://github.com/user-attachments/assets/728871c8-6f5f-4f7d-bb37-9368f0e512d8" alt="Instagram" width="100">
     </a>
 </p>
 
