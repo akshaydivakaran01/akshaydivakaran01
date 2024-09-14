@@ -6,7 +6,7 @@
 <br>
 <br>
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=009DC5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshay+Divakaran" alt="Typing SVG" />
+    <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&pause=1000&color=64FFDA&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Akshay+Divakaran" alt="Typing SVG" /></a>
 </div>
 
 ### <p align="center">Full Stack Developer || MERN </p>
@@ -110,15 +110,15 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">
     &nbsp
-    <a href="mailto:akshaydivakaran01@gmail.com">
+    <a href="mailto:akshaydivakaran01@gmail.com" target="_blank">
         <img src="https://github.com/user-attachments/assets/e83c5fa2-580b-4d20-815a-fe7856ca9b73" alt="Email" width="70">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/akshaydivakaran">
+    <a href="https://www.linkedin.com/in/akshaydivakaran" target="_blank">
         <img src="https://github.com/user-attachments/assets/b727609c-9347-4ab4-8deb-c38ee6f1dc4a" alt="LinkedIn" width="70">
     </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.instagram.com/__aksh.4y__/?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr">
+    <a href="https://www.instagram.com/__aksh.4y__/?igsh=MXV6ZzYwaXRpbXlweA%3D%3D&utm_source=qr" target="_blank">
         <img src="https://github.com/user-attachments/assets/728871c8-6f5f-4f7d-bb37-9368f0e512d8" alt="Instagram" width="70">
     </a>
 </p>
@@ -127,15 +127,15 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">Happy coding! :rocket: </p>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/ef025ca6-7adb-41e1-99d9-bdf8217132bc" alt="Happy Coding"/></p>
+  <a href="#"><img src="https://github.com/user-attachments/assets/ef025ca6-7adb-41e1-99d9-bdf8217132bc" alt="Happy Coding"/></p></a>
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/236814db-8ea7-41f5-91e5-05489d12d603" alt="Built with Love"/></p>
+  <a href="#"><img src="https://github.com/user-attachments/assets/236814db-8ea7-41f5-91e5-05489d12d603" alt="Built with Love"/></p></a>
 </div>
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/ddeff412-31da-4f0e-8c2d-03267bdb44c2" alt="End" width="100%"/>
+    <a href="#"><img src="https://github.com/user-attachments/assets/ddeff412-31da-4f0e-8c2d-03267bdb44c2" alt="End" width="100%"/></a>
 </div>
 
 </div>
