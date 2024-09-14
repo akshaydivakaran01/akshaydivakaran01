@@ -127,15 +127,15 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">Happy coding! :rocket: </p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Happy Coding"/></p>
+  <img src="https://github.com/user-attachments/assets/ef025ca6-7adb-41e1-99d9-bdf8217132bc" alt="Happy Coding"/></p>
 </div>
 <br>
 <div align="center">
-  <img src="https://camo.githubusercontent.com/626238757866864b3d04ed0c9c43cfc9f8c5983b3c1f085362967381d24761e4/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667" alt="Happy Coding"/></p>
+  <img src="https://github.com/user-attachments/assets/236814db-8ea7-41f5-91e5-05489d12d603" alt="Built with Love"/></p>
 </div>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Line-seperation" width="100%"/>
+    <img src="https://github.com/user-attachments/assets/ddeff412-31da-4f0e-8c2d-03267bdb44c2" alt="End" width="100%"/>
 </div>
 
 </div>
