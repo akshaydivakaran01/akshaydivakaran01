@@ -30,7 +30,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 <table align="center">
   <tr>
      <td align="center" width="96">
-      <a href="https://www.mongodb.com/68"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="Express" width="48" height="48" /></a>
+      <a href="https://www.mongodb.com/68"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" alt="MongoDB" width="48" height="48" /></a>
       <br>MongoDB
     </td>
      <td align="center" width="96">
@@ -38,7 +38,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
       <br>Express
     </td>
     <td align="center" width="96">
-      <a href="https://react.dev/"><img src="https://i.makeagif.com/media/11-21-2022/imisbt.gif" alt="React" width="48" height="48" /></a>
+      <a href="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" alt="React" width="48" height="48" /></a>
       <br>React JS
     </td>
     <td align="center" width="96">
