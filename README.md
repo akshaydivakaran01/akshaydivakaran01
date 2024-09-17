@@ -20,7 +20,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 </p>
 
 <div align="center">
-    <a href="#"><img src="https://github.com/user-attachments/assets/08c5fdb8-a983-4b24-9d7f-b6a379863681" alt="Header" width="50" height="50"/></a>
+    <a href="#"><img src="https://github.com/user-attachments/assets/193007d0-3763-4e93-8438-d2f0b11c3512" alt="Header" width="50" height="50"/></a>
 </div>
 <hr>
 
