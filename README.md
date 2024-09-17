@@ -127,7 +127,7 @@ I'm a dedicated MERN Stack developer with a passion for crafting dynamic, respon
 
 <p align="center">Happy coding! :rocket: </p>
 <div align="center">
-  <a href="#"><img src="https://github.com/user-attachments/assets/ef025ca6-7adb-41e1-99d9-bdf8217132bc" alt="Happy Coding"/></p></a>
+  <a href="#"><img src="https://github.com/user-attachments/assets/ef025ca6-7adb-41e1-99d9-bdf8217132bc" alt="Happy Coding"/></a>
 </div>
 <br>
 <div align="center">
